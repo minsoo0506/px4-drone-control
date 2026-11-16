@@ -1,0 +1,19 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# 비행 기록과 시뮬레이션 산출물
+logs/
+runs/
+*.ulg
+*.db3
+*.mcap
+
+# 개발 환경
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
